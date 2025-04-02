@@ -1,6 +1,6 @@
 # Presentacion de Paradigmas de la Programacion
 
-Me llamo Bruno Reus tengo 20 años, trabajo vendiendo purificadores de agua PSA, ya es mi tercer año cursando la carrera y esoy con muchas ganas de aprender mas de la programacion.
+Me llamo Bruno Reus tengo 20 años, vivo en caballito, trabajo vendiendo purificadores de agua PSA, ya es mi tercer año cursando la carrera y esoy con muchas ganas de aprender mas de la programacion.
 
 ### Intereses
 * Hago rugby hace ya mas de 10 años, juego en plantel superior en el club San Cirano (soy el que esta agarrando la pelota)
